@@ -81,12 +81,5 @@ HTML                     9 repos             █░░░░░░░░░░�
 Shell                    5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Kodylow/Kodylow/master/assets/bar_graph.png)
-
-
  Last Updated on 20/10/2024 18:51:44 UTC
 <!--END_SECTION:waka-->
