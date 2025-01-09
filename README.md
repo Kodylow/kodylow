@@ -10,19 +10,17 @@
 
 ## Wakatime 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
+> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 425 Public Repositories 
+> 📜 427 Public Repositories 
  > 
 > 🔑 80 Private Repositories 
  > 
@@ -70,10 +68,10 @@ Mac                      14 mins             ███████████�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     76 repos            ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-TypeScript               55 repos            █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Python                   43 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Go                       18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Rust                     76 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+TypeScript               56 repos            █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Python                   43 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Go                       18 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
@@ -84,5 +82,5 @@ Shell                    6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kodylow/Kodylow/master/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 19:46:44 UTC
+ Last Updated on 09/01/2025 19:47:00 UTC
 <!--END_SECTION:waka-->
