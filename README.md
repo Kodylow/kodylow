@@ -10,8 +10,6 @@
 
 ## Wakatime 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C294%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -26,45 +24,6 @@
  > 
 > 🔑 134 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6940 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-🌆 Daytime                15604 commits       ███████████████░░░░░░░░░░   60.10 % 
-🌃 Evening                2825 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-🌙 Night                  595 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4742 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Tuesday                  3111 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Wednesday                2312 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Thursday                 5197 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Friday                   4276 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Saturday                 2637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Sunday                   3689 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +41,5 @@ CSS                      4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kodylow/Kodylow/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 20:40:06 UTC
+ Last Updated on 20/09/2025 20:38:58 UTC
 <!--END_SECTION:waka-->
