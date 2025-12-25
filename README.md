@@ -18,13 +18,13 @@
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2025
+> 🏆 261 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 449 Public Repositories 
  > 
-> 🔑 140 Private Repositories 
+> 🔑 141 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -68,10 +68,10 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               87 repos            ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Python                   48 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-JavaScript               27 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-HTML                     14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+TypeScript               88 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Python                   48 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+JavaScript               27 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+HTML                     14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 CSS                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
@@ -82,5 +82,5 @@ CSS                      5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kodylow/Kodylow/master/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 20:21:37 UTC
+ Last Updated on 25/12/2025 20:20:40 UTC
 <!--END_SECTION:waka-->
