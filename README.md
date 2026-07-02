@@ -1,4 +1,3 @@
-## 📈 GitHub stats
 <!--START_SECTION:github-->
 <div class="badges-githubstats">
   <p align="center">
